@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<Packages DBVersion="2.0">
+    <ThirdParties>
+        <ThirdParty Name="I-CUBE-wolfSSL" Vendor="wolfSSL">
+            <ShortDescription>Lightweight SSL/TLS and Crypt Library for Embedded Systems</ShortDescription>
+            <PackDescription InstallPath="C:\Users\wdy\STM32Cube\Repository\Packs\wolfSSL\I-CUBE-wolfSSL\5.6.3" Release="5.6.3" ReleaseUrl="http://www.wolfSSL.com/files/ide/wolfSSL.I-CUBE-wolfSSL.5.6.3.pack" Status="New">
+                <Note Release="&#10;Release information :&#10;&#10;        June/16/2023,  wolfSSL pack for wolfSSL 5.6.3&#10;        "/>
+            </PackDescription>
+        </ThirdParty>
+    </ThirdParties>
+</Packages>
